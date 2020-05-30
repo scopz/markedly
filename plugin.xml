@@ -44,7 +44,7 @@
             commandId="markedly.commands.nextBookmark"
             contextId="org.eclipse.ui.textEditorScope"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"
-            sequence="">
+            sequence="M2+F2">
         </key>
         <key
             commandId="markedly.commands.previousBookmark"
@@ -56,7 +56,7 @@
             commandId="markedly.commands.toggleBookmark"
             contextId="org.eclipse.ui.textEditorScope"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"
-            sequence="">
+            sequence="M1+F2">
         </key>
     </extension>
 </plugin>
